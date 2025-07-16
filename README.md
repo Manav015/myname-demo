@@ -1,4 +1,4 @@
 # myname-demo
 This is my second git repository
 <br>
-Author-- Manav Dhruve
+Author-- Manav(Meditab)
